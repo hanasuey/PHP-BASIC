@@ -8,7 +8,7 @@
 
 function zoekLetterInAlfabet() {
     $woordje = 'ja';
-    $zinnetje = 'nee ja nee. ja';
+    $zinnetje = 'nee ja nee. ja.';
     $helezin = $woordje . $zinnetje;
     echo $helezin;
 }
